@@ -1,0 +1,18 @@
+{
+    "streams": {
+        "BCA": {
+            "classes": {
+                "1A": {
+                    "students": [
+                        "km"
+                    ]
+                }
+            },
+            "faculty": {
+                "KM": {
+                    "assigned_class": "1A"
+                }
+            }
+        }
+    }
+}
